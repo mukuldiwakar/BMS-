@@ -1,0 +1,7 @@
+pip install tkinter
+pip install Pillow
+pip install customtkinter
+pip install pygame
+pip install mysql-connector-python
+pip install requests
+pip install secure-smtplib
