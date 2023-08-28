@@ -1,7 +1,7 @@
 
 # Bank_Management_System
 
-` This Python-based Bank Management System allows users to manage their bank accounts, perform transactions, check balances, and more.`
+` This is a  Python-based Bank Management System built with Tkinter GUI allows users to manage their bank accounts, perform transactions, check balances, and more.`
 
 ## Features
 
@@ -73,16 +73,15 @@ git clone https://github.com/trafalgar653/BMS-.git
 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-# Versions 
+# Versions 💻
 we have two versions of BMS 
 - Remote version : Use sql data from server. You can run it directly  (usually slow)
 
 - Local host version: You have to create database to use it locally.(fast)
 
-
+### *Remote version :*
+It is the easy to use version but it takes time to update data because of slow server speed.
+      
 ### *Local host version :*
 
 Make sure to replace host ,user and password with your's
@@ -198,8 +197,26 @@ print("success2")
 ```
 
 
+## Admin login:
+```
+Admin ID -admin
+Password- admin123
 
+```
 
+## User login:
+```
+User ID- user123
+Password- zxcvbnm
+
+User ID- user124
+Password- asdfghjkl
+
+```
+## Bank code:
+```
+painum653
+```
 
 ## Screenshots
 
@@ -221,4 +238,10 @@ print("success2")
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## Demo
+
+
+![Demo](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
